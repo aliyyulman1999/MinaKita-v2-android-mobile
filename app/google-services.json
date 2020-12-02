@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "526377078400",
+    "firebase_url": "https://minakita-app.firebaseio.com",
+    "project_id": "minakita-app",
+    "storage_bucket": "minakita-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526377078400:android:c7edf0071ad355addaa065",
+        "android_client_info": {
+          "package_name": "org.d3if4070.minakitaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526377078400-deg95gf55r3vsk545d5v3aa16098vaqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3if4070.minakitaapp",
+            "certificate_hash": "a6f8fbcd025a060db0bf71aca3e031bf7760e75b"
+          }
+        },
+        {
+          "client_id": "526377078400-56in736dn10murtsn3upl9r132c6dng4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrdkn-X0vuXOKCOsXBSPwYCaYbgzwmiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526377078400-56in736dn10murtsn3upl9r132c6dng4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526377078400:android:2e7051556f4df0a2daa065",
+        "android_client_info": {
+          "package_name": "org.klaten.minakita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526377078400-56in736dn10murtsn3upl9r132c6dng4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrdkn-X0vuXOKCOsXBSPwYCaYbgzwmiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526377078400-56in736dn10murtsn3upl9r132c6dng4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526377078400:android:c79b44cb3d70af7bdaa065",
+        "android_client_info": {
+          "package_name": "org.telkomuniversity.minakitav2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526377078400-56in736dn10murtsn3upl9r132c6dng4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrdkn-X0vuXOKCOsXBSPwYCaYbgzwmiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526377078400-56in736dn10murtsn3upl9r132c6dng4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
