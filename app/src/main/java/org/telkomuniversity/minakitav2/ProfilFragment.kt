@@ -110,6 +110,11 @@ class ProfilFragment : Fragment() {
             val actionUpdateEmail = ProfilFragmentDirections.actionUpdateEmail()
             Navigation.findNavController(it).navigate(actionUpdateEmail)
         }
+
+        tvChangePassword.setOnClickListener {
+            val actionChangePassword = ProfilFragmentDirections.actionChangePassword()
+            Navigation.findNavController(it).navigate(actionChangePassword)
+        }
     }
 
     private fun intentCamera() {
