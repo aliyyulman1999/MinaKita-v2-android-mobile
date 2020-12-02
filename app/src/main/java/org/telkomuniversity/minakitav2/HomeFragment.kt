@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 
 class HomeFragment : Fragment() {
-    
+
     private var param1: String? = null
     private var param2: String? = null
 
